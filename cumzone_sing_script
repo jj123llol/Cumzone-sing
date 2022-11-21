@@ -699,6 +699,7 @@ if OldSetting then
 end
 Notify("Loaded Successfully", "Anti Chat and Screenshot Logger Loaded! CREDIT : sacred#9060", 15)
 print(string.format("Anti Chat-Logger has loaded in %s seconds.", tostring(tick() - ACL_LoadTime):sub(1, 4)))
+Notify("Do it.", "Join the discord fatass https://discord.gg/WZm4qMvXPQ ", 15)
 
 
 
